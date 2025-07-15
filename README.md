@@ -1,14 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">👋🏼 Hi! I'm Fábio Souza</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
+<h2 align="left">👋🏼 Hi! I'm Fábio Souza</h2>
 
 <p align="left">💻 Bachelor's degree in Information Systems<br>🌍 Originally from Natal, Brazil 🇧🇷 — currently living in La Plata, Argentina 🇦🇷<br>🚀 Passionate about technology, I've been working with PHP for over 10 years, always striving to write clean and efficient code.<br>🧠 Currently diving deeper into Ruby on Rails, exploring new architectures and best practices.<br>🔧 I enjoy solving problems with logic, building smart solutions, and learning something new every day.</p>
 
