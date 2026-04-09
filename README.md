@@ -1,6 +1,6 @@
 <h2 align="left">👋🏼 Hi! I'm Fábio Souza</h2>
 
-<p align="left">💻 Bachelor's degree in Information Systems<br>🌍 Originally from Natal, Brazil 🇧🇷 — currently living in La Plata, Argentina 🇦🇷<br>🚀 Passionate about technology, I've been working with PHP for over 10 years, always striving to write clean and efficient code.<br>🧠 Currently diving deeper into Ruby on Rails, exploring new architectures and best practices.<br>🔧 I enjoy solving problems with logic, building smart solutions, and learning something new every day.</p>
+<p align="left">💻 Bachelor's degree in Information Systems<br>🌍 Originally from Natal, Brazil 🇧🇷 — currently living in La Plata, Argentina 🇦🇷<br>🚀 Passionate about technology, I've been working with PHP for over 10 years, always striving to write clean and efficient code.<br>🔧 I enjoy solving problems with logic, building smart solutions, and learning something new every day.</p>
 
 ###
 
@@ -22,10 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="rails logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" alt="ionic logo"  />
   <img width="12" />
